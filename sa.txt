@@ -1,0 +1,18 @@
+{
+  "AlwaysChangeOnBoot": false,
+  "UpdateURL": "",
+  "Wallpapers": [
+    {
+      "Name": "test.png",
+      "URL": "https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg"
+    },
+    {
+      "Name": "test.png",
+      "URL": "https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg"
+    },
+    {
+      "Name": "test.png",
+      "URL": "https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg"
+    }
+  ]
+}
