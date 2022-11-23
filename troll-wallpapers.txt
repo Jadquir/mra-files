@@ -1,5 +1,5 @@
 {
-  "AlwaysChangeOnBoot": false,
+  "AlwaysChangeOnBoot": true,
   "UpdateURL": "",
   "Wallpapers": [
     {
