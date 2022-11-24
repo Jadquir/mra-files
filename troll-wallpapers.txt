@@ -1,18 +1,22 @@
 {
   "AlwaysChangeOnBoot": true,
-  "UpdateURL": "",
+  "TimerSecond": 60.0,
+  "UpdateURL": "https://raw.githubusercontent.com/Jadquir/mra-files/main/troll-wallpapers.txt",
   "Wallpapers": [
     {
-      "Name": "test.png",
-      "URL": "https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg"
+      "Name": "test1.png",
+      "URL": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__480.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "test2.png",
+      "URL": "https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg",
+      "Style": 2
     },
     {
       "Name": "test.png",
-      "URL": "https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg"
-    },
-    {
-      "Name": "test.png",
-      "URL": "https://assets2.razerzone.com/images/pnx.assets/618c0b65424070a1017a7168ea1b6337/razer-wallpapers-page-hero-mobile.jpg"
+      "URL": "https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-thumb.jpg",
+      "Style": 2
     }
   ]
 }
