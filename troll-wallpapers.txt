@@ -4,18 +4,48 @@
   "UpdateURL": "https://raw.githubusercontent.com/Jadquir/mra-files/main/troll-wallpapers.txt",
   "Wallpapers": [
     {
-      "Name": "test1.png",
-      "URL": "https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__480.jpg",
+      "Name": "l4vtfpp.jpg",
+      "URL": "https://i.hizliresim.com/l4vtfpp.jpg",
       "Style": 2
     },
     {
-      "Name": "test2.png",
-      "URL": "https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg",
+      "Name": "k7yewey.jpg",
+      "URL": "https://i.hizliresim.com/k7yewey.jpg",
       "Style": 2
     },
     {
-      "Name": "test.png",
-      "URL": "https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-thumb.jpg",
+      "Name": "khdvz2z.jpg",
+      "URL": "https://i.hizliresim.com/khdvz2z.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "o1jm8md.jpg",
+      "URL": "https://i.hizliresim.com/o1jm8md.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "aajebq0.jpg",
+      "URL": "https://i.hizliresim.com/aajebq0.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "7as526r.jpg",
+      "URL": "https://i.hizliresim.com/7as526r.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "jn8zgbc.jpg",
+      "URL": "https://i.hizliresim.com/jn8zgbc.jpg",
+      "Style": 2
+    },
+    {
+      "Name": "kns48pf.png",
+      "URL": "https://i.hizliresim.com/kns48pf.png",
+      "Style": 2
+    },
+    {
+      "Name": "p8hs275.jpg",
+      "URL": "https://i.hizliresim.com/p8hs275.jpg",
       "Style": 2
     }
   ]
