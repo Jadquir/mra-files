@@ -28,6 +28,15 @@
       "VersionDate": "2022-08-25T00:00:00",
       "VersionTag": 1,
       "ChangeLog": "- Added loading indicator to update checker.\n- Fixed navigation not working on some computers.\n- Fixed Lyric Viewer's Font selection bug.\n- Fixed Tray Window UI Bug.\n- Fixed mouse back button bug.\n- Fixed error message.\n"
+    },
+    {
+      "version": [
+        0,
+        102
+      ],
+      "VersionDate": "2023-01-06T00:00:00",
+      "VersionTag": 1,
+      "ChangeLog": "- Improved the music downloader.\n- Improved the Music Section.\n- New sorry message popup.\n- Fixed crashing when it couldn't find the music.\n- Fixed turning completely white on selecting themes.\n- Fixed saving and loading preview volume."
     }
   ]
 }
