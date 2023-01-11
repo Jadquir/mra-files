@@ -36,7 +36,7 @@
       ],
       "VersionDate": "2023-01-06T00:00:00",
       "VersionTag": 1,
-      "ChangeLog": "- Improved the music downloader.\n- Improved the Music Section.\n- New sorry message popup.\n- Fixed crashing when it couldn't find the music.\n- Fixed turning completely white on selecting themes.\n- Fixed saving and loading preview volume."
+      "ChangeLog": "- Improved the music downloader.\n- Improved the Music Section.\n- New sorry message popup.\n- Fixed crashing when it couldn't find the music.\n- Fixed turning completely white on selecting themes.\n- Fixed saving and loading preview volume.\n- Fixed starting with windows tray problem."
     }
   ]
 }
