@@ -45,7 +45,7 @@
       ],
       "VersionDate": "2023-02-09T00:00:00",
       "VersionTag": 1,
-      "ChangeLog": "- Music downloder converts downloaded webm (or any file extension) to mp3.\n- Added liking system.\n- Added Recommandation System (Alpha Version)..\n- Added a system for preventing running multiple instance of the application..\n- Added confirmation to deleting a music from history..\n- Fixed turning white on Windows 10 and older versions..\n- Fixed preview viewer sound problem..\n- Fixed the application doesn't open in hidden mode..\n- Small improvements..\n"
+      "ChangeLog": "- Music downloder converts downloaded webm (or any file extension) to mp3.\n- Added liking system.\n- Added Recommandation System (Alpha Version).\n- Added a system for preventing running multiple instance of the application.\n- Added confirmation to deleting a music from history.\n- Fixed turning white on Windows 10 and older versions.\n- Fixed preview viewer sound problem.\n- Fixed the application doesn't open in hidden mode.\n- Small improvements.\n"
     }
   ]
 }
