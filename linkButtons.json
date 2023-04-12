@@ -1,11 +1,4 @@
 {
-  "Links": [
-    {
-      "SymbolIcon": 57373,
-      "Url": "test",
-      "Tooltip": "Test",
-      "Type": 0
-    }
-  ],
+  "Links": [ ],
   "Url": "https://raw.githubusercontent.com/Jadquir/mra-files/main/linkButtons.json"
 }
