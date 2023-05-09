@@ -1,7 +1,7 @@
 {
     "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
     "DownloadLink": "https://jadquir.xyz/mra/",
-    "AutoUpdateUrl": null,
+    "AutoUpdateUrl": "https://dl.dropboxusercontent.com/s/k9p9m1d5d5hwyf9/MRA.zip?dl=0",
     "UpdateChangeLog": [{
             "version": [
                 0,
@@ -59,6 +59,15 @@
             "VersionDate": "2023-05-09T00:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Added language support. (You can learn more from Language Tab in Settings).\n- Added Spotify Integration. (Closed Beta) (You can learn more from Spotify Tab in Settings)\n- Added Auto Updater (Alpha) (Not available on 32-bit systems)\n- Added button for navigating straight to the Main Menu.\n- Added \"Download All\" to history, liked musics, recommandations and related musics.\n- Added listen microphone and desktop audio buttons while viewing music.\n- Added Page Transition Animation setting.\n- Added native desktop notifications.\n- Added Enable Mica Material setting.\n- Music downloder writes metadata to the downloaded music.\n- Added ability to open Spotify and Deezer.\n- General improvements.\n- General bugfixes."
+        }, {
+            "version": [
+                0,
+                104,
+                1
+            ],
+            "VersionDate": "2023-05-10T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Added German Language (Thanks to Jonas \"Jonezz25\" Schnakenberg).\n- Fixed language selection."
         }
     ]
 }
