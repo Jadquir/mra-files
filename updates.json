@@ -1,61 +1,64 @@
 {
-  "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
-  "DownloadLink": "https://jadquir.xyz/pages/mra/download.html",
-  "UpdateChangeLog": [
-    {
-      "version": [
-        0,
-        1
-      ],
-      "VersionDate": "2022-07-13T00:00:00",
-      "VersionTag": 0,
-      "ChangeLog": "- Alpha Testing."
-    },
-    {
-      "version": [
-        0,
-        1
-      ],
-      "VersionDate": "2022-08-04T00:00:00",
-      "VersionTag": 1,
-      "ChangeLog": "- Public beta release."
-    },
-    {
-      "version": [
-        0,
-        101
-      ],
-      "VersionDate": "2022-08-25T00:00:00",
-      "VersionTag": 1,
-      "ChangeLog": "- Added loading indicator to update checker.\n- Fixed navigation not working on some computers.\n- Fixed Lyric Viewer's Font selection bug.\n- Fixed Tray Window UI Bug.\n- Fixed mouse back button bug.\n- Fixed error message.\n"
-    },
-    {
-      "version": [
-        0,
-        102
-      ],
-      "VersionDate": "2023-01-06T00:00:00",
-      "VersionTag": 1,
-      "ChangeLog": "- Improved the music downloader.\n- Improved the Music Section.\n- New sorry message popup.\n- Fixed crashing when it couldn't find the music.\n- Fixed turning completely white on selecting themes.\n- Fixed saving and loading preview volume.\n- Fixed starting with windows tray problem."
-    },
-    {
-      "version": [
-        0,
-        103
-      ],
-      "VersionDate": "2023-02-09T00:00:00",
-      "VersionTag": 1,
-      "ChangeLog": "- Music downloder converts downloaded webm (or any file extension) to mp3.\n- Added liking system.\n- Added Recommandation System (Alpha Version)..\n- Added a system for preventing running multiple instance of the application..\n- Added confirmation to deleting a music from history..\n- Fixed turning white on Windows 10 and older versions..\n- Fixed preview viewer sound problem..\n- Fixed the application doesn't open in hidden mode..\n- Small improvements..\n"
-    },
-    {
-      "version": [
-        0,
-        103,
-        1
-      ],
-      "VersionDate": "2023-02-11T00:00:01",
-      "VersionTag": 1,
-      "ChangeLog": "- Added Crash Message Box.\n- Fixed crash on clicking listen button on start with Windows."
-    }
-  ]
+    "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
+    "DownloadLink": "https://jadquir.xyz/mra/",
+    "AutoUpdateUrl": null,
+    "UpdateChangeLog": [{
+            "version": [
+                0,
+                1
+            ],
+            "VersionDate": "2022-07-13T00:00:00",
+            "VersionTag": 0,
+            "ChangeLog": "- Alpha Testing."
+        }, {
+            "version": [
+                0,
+                1
+            ],
+            "VersionDate": "2022-08-04T00:00:00",
+            "VersionTag": 1,
+            "ChangeLog": "- Public beta release."
+        }, {
+            "version": [
+                0,
+                101
+            ],
+            "VersionDate": "2022-08-25T00:00:00",
+            "VersionTag": 1,
+            "ChangeLog": "- Added loading indicator to update checker.\n- Fixed navigation not working on some computers.\n- Fixed Lyric Viewer's Font selection bug.\n- Fixed Tray Window UI Bug.\n- Fixed mouse back button bug.\n- Fixed error message.\n"
+        }, {
+            "version": [
+                0,
+                102
+            ],
+            "VersionDate": "2023-01-06T00:00:00",
+            "VersionTag": 1,
+            "ChangeLog": "- Improved the music downloader.\n- Improved the Music Section.\n- New sorry message popup.\n- Fixed crashing when it couldn't find the music.\n- Fixed turning completely white on selecting themes.\n- Fixed saving and loading preview volume.\n- Fixed starting with windows tray problem."
+        }, {
+            "version": [
+                0,
+                103
+            ],
+            "VersionDate": "2023-02-09T00:00:00",
+            "VersionTag": 1,
+            "ChangeLog": "- Music downloder converts downloaded webm (or any file extension) to mp3.\n- Added liking system.\n- Added Recommandation System (Alpha Version)..\n- Added a system for preventing running multiple instance of the application..\n- Added confirmation to deleting a music from history..\n- Fixed turning white on Windows 10 and older versions..\n- Fixed preview viewer sound problem..\n- Fixed the application doesn't open in hidden mode..\n- Small improvements..\n"
+        }, {
+            "version": [
+                0,
+                103,
+                1
+            ],
+            "VersionDate": "2023-02-11T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Added Crash Message Box.\n- Fixed crash on clicking listen button on start with Windows."
+        }, {
+            "version": [
+                0,
+                104
+            ],
+            "VersionDate": "2023-05-09T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Added language support. (You can learn more from Language Tab in Settings).\n- Added Spotify Integration. (Closed Beta) (You can learn more from Spotify Tab in Settings)\n- Added Auto Updater (Alpha) (Not available on 32-bit systems)\n- Added button for navigating straight to the Main Menu.\n- Added \"Download All\" to history, liked musics, recommandations and related musics.\n- Added listen microphone and desktop audio buttons while viewing music.\n- Added Page Transition Animation setting.\n- Added native desktop notifications.\n- Added Enable Mica Material setting.\n- Music downloder writes metadata to the downloaded music.\n- Added ability to open Spotify and Deezer.\n- General improvements.\n- General bugfixes."
+        }
+    ]
 }
