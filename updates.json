@@ -68,6 +68,15 @@
             "VersionDate": "2023-05-10T00:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Added German Language (Thanks to Jonas \"Jonezz25\" Schnakenberg).\n- Fixed language selection."
+        } , {
+            "version": [
+                0,
+                104,
+                2
+            ],
+            "VersionDate": "2023-05-10T10:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Fixed a major bug where you can't open the MRA after updating to 0.104.1.\n- Fixed MRA Crash Handler."
         }
     ]
 }
