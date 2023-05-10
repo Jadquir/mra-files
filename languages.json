@@ -1,4 +1,8 @@
 {
     "NewUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/languages.json",
-    "Languages": []
+    "Languages": [{
+      "DownloadUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/languages/de.yaml",
+      "LanguageCode": "de",
+      "LastUpdateDate": "2023-05-10T15:05:45.8525641+03:00"
+    }]
   }
