@@ -77,6 +77,15 @@
             "VersionDate": "2023-05-10T10:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Fixed a major bug where you can't open the MRA after updating to 0.104.1.\n- Fixed MRA Crash Handler."
+        } , {
+            "version": [
+                0,
+                104,
+                3
+            ],
+            "VersionDate": "2023-05-14T10:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Added Russian Language (Thanks to Kowalsky).\n- Fixed the issue where the new users can't open MRA.\n- Fixed Update checker infinite loading."
         }
     ]
 }
