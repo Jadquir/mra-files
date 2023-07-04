@@ -86,6 +86,14 @@
             "VersionDate": "2023-05-14T10:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Added Russian Language (Thanks to Kowalsky).\n- Fixed the issue where the new users can't open MRA.\n- Fixed Update checker infinite loading."
+        } , {
+            "version": [
+                0,
+                105
+            ],
+            "VersionDate": "2023-07-05T10:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Updated Preview UI.\n- Updated navigation menu.\n- New: Share the songs you found with your friends.\n- New: Discord Activity System.\n- New: User System.\n- New: Playlist System.\n- New: Create custom playlist, add music to playlists (Supporter Only)\n- New: Backup your search history and liked musics (Supporter Only)\n- New: Synced Lyrics Feature (Play the full music with lyrics) (Supporter Only)\n- New: Transfer all musics from playlist to Spotify (Supporter Only)\n- New: See the songs from same album (Supporter Only)\n- New: See the Artist's page, albums and other musics (Supporter Only)\n- Fixed users can't download in Russia.\n- General imporvements and bug fixes"
         }
     ]
 }
