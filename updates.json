@@ -1,6 +1,6 @@
 {
     "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
-    "DownloadLink": "https://jadquir.xyz/mra/",
+    "DownloadLink": "https://mra.jadquir.com/",
     "AutoUpdateUrl": "https://dl.dropboxusercontent.com/s/k9p9m1d5d5hwyf9/MRA.zip?dl=0",
     "UpdateChangeLog": [{
             "version": [
