@@ -1,5 +1,8 @@
 {
     "mra.download": "https://mra.jadquir.com/",
     "mra.logo": "https://mra.jadquir.com/images/logo.png",
-    "mra.share": "https://mra.jadquir.com/?id={0}"
+    "mra.share": "https://mra.jadquir.com/?id={0}",
+    "mra.playlist.share": "https://mra.jadquir.com/?pl={0}",
+    "mainmenu.copyright.text": "© 2022-2023 Jadquir",
+    "mra.sub.url": "https://mra.jadquir.com/#tiers"
 }

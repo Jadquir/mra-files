@@ -94,6 +94,14 @@
             "VersionDate": "2023-07-05T10:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Updated Preview UI.\n- Updated navigation menu.\n- New: Share the songs you found with your friends.\n- New: Discord Activity System.\n- New: User System.\n- New: Playlist System.\n- New: Create custom playlist, add music to playlists (Supporter Only)\n- New: Backup your search history and liked musics (Supporter Only)\n- New: Synced Lyrics Feature (Play the full music with lyrics) (Supporter Only)\n- New: Transfer all musics from playlist to Spotify (Supporter Only)\n- New: See the songs from same album (Supporter Only)\n- New: See the Artist's page, albums and other musics (Supporter Only)\n- Fixed users can't download in Russia.\n- General imporvements and bug fixes"
+        } , {
+            "version": [
+                0,
+                106
+            ],
+            "VersionDate": "2023-10-01T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Added song recognition from sound files.\n- Added drag and drop a sound file to recognize it's music.\n- Added FREE Trial version for Tier 2 Supporter Features.\n- Added Spotify Music Recommendations. (Tier 3 only) (Alpha)\n- Added ability to share playlist. (Tier 1 and above)\n- Added the ability to see the public playlists.\n- Reworked MRA Updater.\n- Added font size option to Synced Lyrics.\n- Added Remember Window Width&Height and Position option.\n- In Preview and Synced Lyrics player controls are reworked.\n- Fixed minor translation issues\n- Fixed minor bugs\n- Added other quality-of-life improvements.\n- And much more..."
         }
     ]
 }
