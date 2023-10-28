@@ -1,7 +1,7 @@
 {
     "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
     "DownloadLink": "https://mra.jadquir.com/",
-    "AutoUpdateUrl": "https://dl.dropboxusercontent.com/s/k9p9m1d5d5hwyf9/MRA.zip?dl=0",
+    "AutoUpdateUrl": "https://github.com/Jadquir/mra-files/raw/main/MRA.zip",
     "UpdateChangeLog": [{
             "version": [
                 0,
@@ -102,6 +102,14 @@
             "VersionDate": "2023-10-01T00:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Added song recognition from sound files.\n- Added drag and drop a sound file to recognize it's music.\n- Added FREE Trial version for Tier 2 Supporter Features.\n- Added Spotify Music Recommendations. (Tier 3 only) (Alpha)\n- Added ability to share playlist. (Tier 1 and above)\n- Added the ability to see the public playlists.\n- Reworked MRA Updater.\n- Added font size option to Synced Lyrics.\n- Added Remember Window Width&Height and Position option.\n- In Preview and Synced Lyrics player controls are reworked.\n- Fixed minor translation issues\n- Fixed minor bugs\n- Added other quality-of-life improvements.\n- And much more..."
+        } , {
+            "version": [
+                0,
+                107
+            ],
+            "VersionDate": "2023-10-28T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Added device switching for input and output.\n- Google Account login option.\n- Username and password changing for MRA accounts.\n- Quick music search at startup.\n- Detailed supporter feature info: mra.jadquir.com\n- Enhanced artist profiles with country and biography.\n- Upgraded Spotify login and recommendations.\n- Compressed History and Liked History files.\n- Fixed short song file recognition not working.\n- Fixed Backup loading not overwriting the existing musics.\n- Resolved album view issues.\n- Streamlined crash report submission.\n- Fixed free trial claim bug.\n- UI fixes and enhancements.\n- Various quality-of-life improvements.\n- And much more..."
         }
     ]
 }
