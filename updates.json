@@ -110,6 +110,15 @@
             "VersionDate": "2023-10-28T00:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Added device switching for input and output.\n- Google Account login option.\n- Username and password changing for MRA accounts.\n- Quick music search at startup.\n- Detailed supporter feature info: mra.jadquir.com\n- Enhanced artist profiles with country and biography.\n- Upgraded Spotify login and recommendations.\n- Compressed History and Liked History files.\n- Fixed short song file recognition not working.\n- Fixed Backup loading not overwriting the existing musics.\n- Resolved album view issues.\n- Streamlined crash report submission.\n- Fixed free trial claim bug.\n- UI fixes and enhancements.\n- Various quality-of-life improvements.\n- And much more..."
+        }, {
+            "version": [
+                0,
+                107,
+                2
+            ],
+            "VersionDate": "2023-10-28T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "Hotfix for 0.107.\n- Fixed MRA not reading old history file.\n- Fixed overlapping dialogs.\n- Rewritten the Device Selection System (Be aware there might still be some issues)."
         }
     ]
 }
