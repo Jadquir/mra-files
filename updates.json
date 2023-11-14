@@ -1,7 +1,7 @@
 {
     "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
     "DownloadLink": "https://mra.jadquir.com/",
-    "AutoUpdateUrl": "https://dl.dropboxusercontent.com/s/k9p9m1d5d5hwyf9/MRA.zip?dl=0",
+    "AutoUpdateUrl": "https://dl.dropboxusercontent.com/scl/fi/pbm8ktj40xtxeli9h8lle/MRA.zip?rlkey=d0s7hio6lfxm7wy5szbww75i3&dl=0",
     "UpdateChangeLog": [{
             "version": [
                 0,
@@ -119,6 +119,15 @@
             "VersionDate": "2023-10-28T00:00:01",
             "VersionTag": 1,
             "ChangeLog": "Hotfix for 0.107.\n- Fixed MRA not reading old history file.\n- Fixed overlapping dialogs.\n- Rewritten the Device Selection System (Be aware there might still be some issues)."
+        }, {
+            "version": [
+                0,
+                107,
+                3
+            ],
+            "VersionDate": "2023-11-14T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "Bugfix Update:\n- Fixed bugs from crashes that are sent to the developer.\n- Fixed update download cancelation freezes app.\n- Fixed crashing at startup.\n- Fixed MRA Updater moves the new version to \"C:\\\\Program\" folder.\n- Improved Crash Report sending directly to the developer.\n- Other quailty of life improvements..."
         }
     ]
 }
