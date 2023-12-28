@@ -1,7 +1,7 @@
 {
     "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
     "DownloadLink": "https://mra.jadquir.com/",
-    "AutoUpdateUrl": "https://dl.dropboxusercontent.com/scl/fi/pbm8ktj40xtxeli9h8lle/MRA.zip?rlkey=d0s7hio6lfxm7wy5szbww75i3&dl=0",
+    "AutoUpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates/0.107.3/MRA.zip",
     "UpdateChangeLog": [{
             "version": [
                 0,
