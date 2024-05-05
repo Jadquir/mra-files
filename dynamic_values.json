@@ -5,5 +5,6 @@
     "mra.playlist.share": "https://mra.jadquir.com/?pl={0}",
     "mainmenu.copyright.text": "© 2022-2024 Jadquir",
     "mra.sub.url": "https://mra.jadquir.com/#tiers",
-    "mra.explore.sub.url": "https://mra.jadquir.com/#features"
+    "mra.explore.sub.url": "https://mra.jadquir.com/#features",
+    "use_session": "True"
 }
