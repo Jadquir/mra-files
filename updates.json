@@ -1,8 +1,8 @@
 {
     "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
     "DownloadLink": "https://mra.jadquir.com/",
-    "AutoUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.108.0/MRA_v01080.zip",
-    "InstallerUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.108.0/MRA_Setup.msi",
+    "AutoUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.109.0/MRA_v01090.zip",
+    "InstallerUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.109.0/MRA_Setup.msi",
     "UpdateChangeLog": [{
             "version": [
                 0,
@@ -128,7 +128,7 @@
             ],
             "VersionDate": "2023-11-14T00:00:01",
             "VersionTag": 1,
-            "ChangeLog": "Bugfix Update:\n- Fixed bugs from crashes that are sent to the developer.\n- Fixed update download cancelation freezes app.\n- Fixed crashing at startup.\n- Fixed MRA Updater moves the new version to \"C:\\\\Program\" folder.\n- Improved Crash Report sending directly to the developer.\n- Other quailty of life improvements..."
+            "ChangeLog": "Bugfix Update:\n- Fixed bugs from crashes that are sent to the developer.\n- Fixed update download cancelation freezes app.\n- Fixed crashing at startup.\n- Fixed MRA Updater moves the new version to \"C:\\\\Program\" folder.\n- Improved Crash Report sending directly to the developer.\n- Other quality of life improvements..."
         }, {
             "version": [
                 0,
@@ -137,6 +137,14 @@
             "VersionDate": "2024-05-06T00:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Removed Auto Updater due to virus warning. You can still download it from our website and use it.\n- (New) Search Music System. (Supporter Only)\n- (New) Added multiple selections for music. (Right-click to a music box) (Supporter Only)\n- (New) Advanced Playlist Management (multiple selection actions) (Supporter Only)\n- Added Thumb Icons.\n- UI Overhaul\n- Added extra lyric API.\n- Better eceptipn handlening.\n- Fixed Spotify Integration (Invalid Client)\n- Fixed bugs that are sent to the developer.\n- Other quality of life improvements..."
+        }, {
+            "version": [
+                0,
+                109
+            ],
+            "VersionDate": "2024-05-21T00:00:01",
+            "VersionTag": 1,
+            "ChangeLog": "- Added hotkeys for start listening.\n- Added buttons for navigating in the same playlist in music details.\n- Added smooth scrolling.\n- Added download to selection actions.\n- Other quality of life improvements.."
         }
     ]
 }
