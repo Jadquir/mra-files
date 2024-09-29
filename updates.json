@@ -2,7 +2,7 @@
     "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
     "DownloadLink": "https://mra.jadquir.com/",
     "AutoUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.110/MRA_0110_x64.zip",
-    "InstallerUpdateUrl": "https://mra.jadquir.com/",
+    "InstallerUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.110/MRA_Setup.msi",
     "UpdateChangeLog": [{
             "version": [
                 0,
