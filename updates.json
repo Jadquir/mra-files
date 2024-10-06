@@ -1,8 +1,8 @@
 {
-    "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/main/updates.json",
+    "UpdateUrl": "https://get-start-vh7xzcelwq-uc.a.run.app/?type=update&app_lang=en&user_lang=en&single=1",
     "DownloadLink": "https://mra.jadquir.com/",
-    "AutoUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.110/MRA_0110_x64.zip",
-    "InstallerUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.110/MRA_Setup.msi",
+    "AutoUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.111/MRA_0111_x64.zip",
+    "InstallerUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.111/MRA_Setup_x64.msi", 
     "UpdateChangeLog": [{
             "version": [
                 0,
@@ -153,6 +153,14 @@
             "VersionDate": "2024-09-30T00:00:01",
             "VersionTag": 1,
             "ChangeLog": "- Complete code revision.\n- New look for the Music Details Page.\n- Added Portuguese support (Thanks to Gonaah)\n- Added French support (Thanks to Dylan LEFORT)\n\n- Added \"Top Searched\" music (Trending) on the MRA.\n- New synced lyrics feature for more accurate lyric display.\n- Supporters get access to a new lyrics API.\n- Introduced VIBEZ! – A new way of discovering music is by scrolling.\n- Now shows information for multiple artists.\n- Option to remove duplicate songs from your history.\n- Added search within playlists.\n- New inbox for important updates and messages.\n- Added Google/YouTube search on the Music Details Page (Right-click to Copy Full Name).\n- Organized the Library Page with categories.\n- New Playlist Information Panel with extra details.\n- Added more background options.\n- Fixed the issue where MRA wouldn't close properly.\n- Other small bug fixes.\n- Other quality of life improvements."
-        }
+        }, {
+        "version": [
+            0,
+            111
+        ],
+        "VersionDate": "2024-10-06T00:00:01",
+        "VersionTag": 1,
+        "ChangeLog": "MRA Bugfix\n- A lot of bug fixes."
+    }
     ]
 }
