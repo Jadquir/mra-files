@@ -1,5 +1,5 @@
 {
-    "UpdateUrl": "https://get-start-vh7xzcelwq-uc.a.run.app/?type=update&app_lang=en&user_lang=en&single=1",
+    "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/refs/heads/main/updates.json",
     "DownloadLink": "https://mra.jadquir.com/",
     "AutoUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.111/MRA_0111_x64.zip",
     "InstallerUpdateUrl": "https://github.com/Jadquir/mra-files/releases/download/0.111/MRA_Setup_x64.msi", 
