@@ -1,128 +1,204 @@
 {
-  "UpdateUrl": "https://raw.githubusercontent.com/Jadquir/mra-files/refs/heads/main/updates.json",
+  "UpdateUrl": "https://downloads.mra.jadquir.com/updates.json",
   "DownloadLink": "https://mra.jadquir.com/",
-  "AutoUpdateUrl": "https://downloads.mra.jadquir.com/downloads/0.2%20Alpha/MRA_02Alpha_x64.zip",
-  "InstallerUpdateUrl": "https://downloads.mra.jadquir.com/downloads/0.2%20Alpha/MRA_Setup_x64.msi",
+  "AutoUpdateUrl": "https://downloads.mra.jadquir.com/downloads/0.2.1%20Alpha/MRA_021Alpha_x64.zip",
+  "InstallerUpdateUrl": "https://downloads.mra.jadquir.com/downloads/0.2.1%20Alpha/MRA_Setup_x64_v0_2_1.msi",
   "UpdateChangeLog": [
     {
-      "version": [0, 1],
+      "version": [
+        0,
+        1
+      ],
       "VersionDate": "2022-07-13T00:00:00",
       "VersionTag": 0,
       "ChangeLog": "- Alpha Testing."
     },
     {
-      "version": [0, 1],
+      "version": [
+        0,
+        1
+      ],
       "VersionDate": "2022-08-04T00:00:00",
       "VersionTag": 1,
       "ChangeLog": "- Public beta release."
     },
     {
-      "version": [0, 101],
+      "version": [
+        0,
+        101
+      ],
       "VersionDate": "2022-08-25T00:00:00",
       "VersionTag": 1,
       "ChangeLog": "- Added loading indicator to update checker.\n- Fixed navigation not working on some computers.\n- Fixed Lyric Viewer's Font selection bug.\n- Fixed Tray Window UI Bug.\n- Fixed mouse back button bug.\n- Fixed error message.\n"
     },
     {
-      "version": [0, 102],
+      "version": [
+        0,
+        102
+      ],
       "VersionDate": "2023-01-06T00:00:00",
       "VersionTag": 1,
       "ChangeLog": "- Improved the music downloader.\n- Improved the Music Section.\n- New sorry message popup.\n- Fixed crashing when it couldn't find the music.\n- Fixed turning completely white on selecting themes.\n- Fixed saving and loading preview volume.\n- Fixed starting with windows tray problem."
     },
     {
-      "version": [0, 103],
+      "version": [
+        0,
+        103
+      ],
       "VersionDate": "2023-02-09T00:00:00",
       "VersionTag": 1,
       "ChangeLog": "- Music downloder converts downloaded webm (or any file extension) to mp3.\n- Added liking system.\n- Added Recommandation System (Alpha Version)..\n- Added a system for preventing running multiple instance of the application..\n- Added confirmation to deleting a music from history..\n- Fixed turning white on Windows 10 and older versions..\n- Fixed preview viewer sound problem..\n- Fixed the application doesn't open in hidden mode..\n- Small improvements..\n"
     },
     {
-      "version": [0, 103, 1],
+      "version": [
+        0,
+        103,
+        1
+      ],
       "VersionDate": "2023-02-11T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Added Crash Message Box.\n- Fixed crash on clicking listen button on start with Windows."
     },
     {
-      "version": [0, 104],
+      "version": [
+        0,
+        104
+      ],
       "VersionDate": "2023-05-09T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Added language support. (You can learn more from Language Tab in Settings).\n- Added Spotify Integration. (Closed Beta) (You can learn more from Spotify Tab in Settings)\n- Added Auto Updater (Alpha) (Not available on 32-bit systems)\n- Added button for navigating straight to the Main Menu.\n- Added \"Download All\" to history, liked musics, recommandations and related musics.\n- Added listen microphone and desktop audio buttons while viewing music.\n- Added Page Transition Animation setting.\n- Added native desktop notifications.\n- Added Enable Mica Material setting.\n- Music downloder writes metadata to the downloaded music.\n- Added ability to open Spotify and Deezer.\n- General improvements.\n- General bugfixes."
     },
     {
-      "version": [0, 104, 1],
+      "version": [
+        0,
+        104,
+        1
+      ],
       "VersionDate": "2023-05-10T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Added German Language (Thanks to Jonas \"Jonezz25\" Schnakenberg).\n- Fixed language selection."
     },
     {
-      "version": [0, 104, 2],
+      "version": [
+        0,
+        104,
+        2
+      ],
       "VersionDate": "2023-05-10T10:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Fixed a major bug where you can't open the MRA after updating to 0.104.1.\n- Fixed MRA Crash Handler."
     },
     {
-      "version": [0, 104, 3],
+      "version": [
+        0,
+        104,
+        3
+      ],
       "VersionDate": "2023-05-14T10:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Added Russian Language (Thanks to Kowalsky).\n- Fixed the issue where the new users can't open MRA.\n- Fixed Update checker infinite loading."
     },
     {
-      "version": [0, 105],
+      "version": [
+        0,
+        105
+      ],
       "VersionDate": "2023-07-05T10:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Updated Preview UI.\n- Updated navigation menu.\n- New: Share the songs you found with your friends.\n- New: Discord Activity System.\n- New: User System.\n- New: Playlist System.\n- New: Create custom playlist, add music to playlists (Supporter Only)\n- New: Backup your search history and liked musics (Supporter Only)\n- New: Synced Lyrics Feature (Play the full music with lyrics) (Supporter Only)\n- New: Transfer all musics from playlist to Spotify (Supporter Only)\n- New: See the songs from same album (Supporter Only)\n- New: See the Artist's page, albums and other musics (Supporter Only)\n- Fixed users can't download in Russia.\n- General imporvements and bug fixes"
     },
     {
-      "version": [0, 106],
+      "version": [
+        0,
+        106
+      ],
       "VersionDate": "2023-10-01T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Added song recognition from sound files.\n- Added drag and drop a sound file to recognize it's music.\n- Added FREE Trial version for Tier 2 Supporter Features.\n- Added Spotify Music Recommendations. (Tier 3 only) (Alpha)\n- Added ability to share playlist. (Tier 1 and above)\n- Added the ability to see the public playlists.\n- Reworked MRA Updater.\n- Added font size option to Synced Lyrics.\n- Added Remember Window Width&Height and Position option.\n- In Preview and Synced Lyrics player controls are reworked.\n- Fixed minor translation issues\n- Fixed minor bugs\n- Added other quality-of-life improvements.\n- And much more..."
     },
     {
-      "version": [0, 107],
+      "version": [
+        0,
+        107
+      ],
       "VersionDate": "2023-10-28T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Added device switching for input and output.\n- Google Account login option.\n- Username and password changing for MRA accounts.\n- Quick music search at startup.\n- Detailed supporter feature info: mra.jadquir.com\n- Enhanced artist profiles with country and biography.\n- Upgraded Spotify login and recommendations.\n- Compressed History and Liked History files.\n- Fixed short song file recognition not working.\n- Fixed Backup loading not overwriting the existing musics.\n- Resolved album view issues.\n- Streamlined crash report submission.\n- Fixed free trial claim bug.\n- UI fixes and enhancements.\n- Various quality-of-life improvements.\n- And much more..."
     },
     {
-      "version": [0, 107, 2],
+      "version": [
+        0,
+        107,
+        2
+      ],
       "VersionDate": "2023-10-28T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "Hotfix for 0.107.\n- Fixed MRA not reading old history files.\n- Fixed overlapping dialogs.\n- Rewritten the Device Selection System (Be aware there might still be some issues)."
     },
     {
-      "version": [0, 107, 3],
+      "version": [
+        0,
+        107,
+        3
+      ],
       "VersionDate": "2023-11-14T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "Bugfix Update:\n- Fixed bugs from crashes that are sent to the developer.\n- Fixed update download cancelation freezes app.\n- Fixed crashing at startup.\n- Fixed MRA Updater moves the new version to \"C:\\\\Program\" folder.\n- Improved Crash Report sending directly to the developer.\n- Other quality of life improvements..."
     },
     {
-      "version": [0, 108],
+      "version": [
+        0,
+        108
+      ],
       "VersionDate": "2024-05-06T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Removed Auto Updater due to virus warning. You can still download it from our website and use it.\n- (New) Search Music System. (Supporter Only)\n- (New) Added multiple selections for music. (Right-click to a music box) (Supporter Only)\n- (New) Advanced Playlist Management (multiple selection actions) (Supporter Only)\n- Added Thumb Icons.\n- UI Overhaul\n- Added extra lyric API.\n- Better eceptipn handlening.\n- Fixed Spotify Integration (Invalid Client)\n- Fixed bugs that are sent to the developer.\n- Other quality of life improvements..."
     },
     {
-      "version": [0, 109],
+      "version": [
+        0,
+        109
+      ],
       "VersionDate": "2024-05-21T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Added hotkeys for start listening.\n- Added buttons for navigating in the same playlist in music details.\n- Added smooth scrolling.\n- Added download to selection actions.\n- Other quality of life improvements.."
     },
     {
-      "version": [0, 110],
+      "version": [
+        0,
+        110
+      ],
       "VersionDate": "2024-09-30T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "- Complete code revision.\n- New look for the Music Details Page.\n- Added Portuguese support (Thanks to Gonaah)\n- Added French support (Thanks to Dylan LEFORT)\n\n- Added \"Top Searched\" music (Trending) on the MRA.\n- New synced lyrics feature for more accurate lyric display.\n- Supporters get access to a new lyrics API.\n- Introduced VIBEZ! – A new way of discovering music is by scrolling.\n- Now shows information for multiple artists.\n- Option to remove duplicate songs from your history.\n- Added search within playlists.\n- New inbox for important updates and messages.\n- Added Google/YouTube search on the Music Details Page (Right-click to Copy Full Name).\n- Organized the Library Page with categories.\n- New Playlist Information Panel with extra details.\n- Added more background options.\n- Fixed the issue where MRA wouldn't close properly.\n- Other small bug fixes.\n- Other quality of life improvements."
     },
     {
-      "version": [0, 111],
+      "version": [
+        0,
+        111
+      ],
       "VersionDate": "2024-10-06T00:00:01",
       "VersionTag": 1,
       "ChangeLog": "MRA Bugfix\n- A lot of bug fixes."
     },
     {
-      "version": [0, 2],
+      "version": [
+        0,
+        2
+      ],
       "VersionDate": "2026-06-16T00:00:00",
       "VersionTag": 0,
       "ChangeLog": "- Continuous Detection: MRA can now listen in the background automatically, identifying songs as they play without manual triggers.\n- Multiple File Identification: Identify a list of audio files all at once in a single pass.\n- AI Song Detection: AI-powered identification for tricky tracks. Free users get 1 check per day, Supporters get 5.\n- MusicLink Integration: One platform for all streaming links.\n- Export Song Data: Export your song history and playlist metadata.\n- Better Search: Search now supports songs, artists, and albums directly.\n- Improved Detection: Core recognition engine rewritten for better accuracy and reliability.\n- New Lyrics Providers: Added new providers for better coverage and sync accuracy.\n- New Downloaders: Integrated additional download sources for improved reliability.\n- Better Artist Details: Richer artist pages with more data and cleaner navigation.\n- Better Album Details: Improved album pages with full track listings and related releases.\n- New Music Details UI: Completely redesigned track details layout.\n- New Settings UI: Preferences menu rebuilt from scratch, cleaner and easier to navigate.\n- UI Overhaul: Full ground-up redesign across the entire app.\n- Bug fixes and improvements."
+    },
+    {
+      "version": [
+        0,
+        2,
+        1
+      ],
+      "VersionDate": "2026-06-18T00:00:00",
+      "VersionTag": 0,
+      "ChangeLog": "- Added Patreon payment support.\n- Improved Supporter settings UI for a better user experience.\n- Fixed YouTubeExplode-related issues in Russia.\n- Resolved an issue where FFmpeg downloads could fail.\n- Fixed a visual glitch in the Inbox interface."
     }
   ]
 }
